@@ -1,5 +1,13 @@
 # geo-table
 
+## About
+
+This application was created as part of the recruitment process.
+
+## Prerequisites
+
+This project requiers [Node.js](https://nodejs.org/) to run.
+
 ## Project setup
 ```
 npm install
